@@ -1,0 +1,191 @@
+{
+  "verifiedAt": "2026-11-11T04:28:22.081Z",
+  "method": "Fresh browser Playground from final blueprint",
+  "blueprintSha256": "415508d0b3cd226e7f325b5142966311bdecce017495848764fe030dbefb278a",
+  "wordpressBlueprintVersion": "7.1.4",
+  "phpBlueprintVersion": "8.3",
+  "activeTheme": {
+    "name": "kadence",
+    "version": "1.6.0"
+  },
+  "activePlugin": {
+    "name": "kadence-blocks/kadence-blocks",
+    "version": "3.9.0"
+  },
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0",
+  "views": [
+    {
+      "mode": "desktop",
+      "page": "Home",
+      "httpStatus": 200,
+      "viewportWidth": 1440,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 26
+    },
+    {
+      "mode": "desktop",
+      "page": "Services",
+      "httpStatus": 200,
+      "viewportWidth": 1440,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 22
+    },
+    {
+      "mode": "desktop",
+      "page": "Approach",
+      "httpStatus": 200,
+      "viewportWidth": 1440,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 20
+    },
+    {
+      "mode": "desktop",
+      "page": "About",
+      "httpStatus": 200,
+      "viewportWidth": 1440,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 13
+    },
+    {
+      "mode": "desktop",
+      "page": "Notes",
+      "httpStatus": 200,
+      "viewportWidth": 1440,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 13
+    },
+    {
+      "mode": "desktop",
+      "page": "Contact",
+      "httpStatus": 200,
+      "viewportWidth": 1440,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 10
+    },
+    {
+      "mode": "mobile",
+      "page": "Home",
+      "httpStatus": 200,
+      "viewportWidth": 390,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 26
+    },
+    {
+      "mode": "mobile",
+      "page": "Services",
+      "httpStatus": 200,
+      "viewportWidth": 390,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 22
+    },
+    {
+      "mode": "mobile",
+      "page": "Approach",
+      "httpStatus": 200,
+      "viewportWidth": 390,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 20
+    },
+    {
+      "mode": "mobile",
+      "page": "About",
+      "httpStatus": 200,
+      "viewportWidth": 390,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 13
+    },
+    {
+      "mode": "mobile",
+      "page": "Notes",
+      "httpStatus": 200,
+      "viewportWidth": 390,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 13
+    },
+    {
+      "mode": "mobile",
+      "page": "Contact",
+      "httpStatus": 200,
+      "viewportWidth": 390,
+      "noHorizontalOverflow": true,
+      "visibleH1s": 1,
+      "mainLandmarks": 1,
+      "kadenceMarkupElements": 10
+    }
+  ],
+  "blockValidation": {
+    "Home": {
+      "totalBlocks": 51,
+      "kadenceBlocks": 23,
+      "invalid": []
+    },
+    "Services": {
+      "totalBlocks": 34,
+      "kadenceBlocks": 19,
+      "invalid": []
+    },
+    "Approach": {
+      "totalBlocks": 27,
+      "kadenceBlocks": 17,
+      "invalid": []
+    },
+    "About": {
+      "totalBlocks": 18,
+      "kadenceBlocks": 10,
+      "invalid": []
+    },
+    "Notes": {
+      "totalBlocks": 18,
+      "kadenceBlocks": 10,
+      "invalid": []
+    },
+    "Contact": {
+      "totalBlocks": 12,
+      "kadenceBlocks": 7,
+      "invalid": []
+    }
+  },
+  "editor": {
+    "totalBlocks": 51,
+    "invalid": [],
+    "savedEdit": true,
+    "restored": true,
+    "restoredOriginalText": true
+  },
+  "mobileMenu": {
+    "expanded": "true",
+    "visibleLinks": 5,
+    "navigationWorked": true
+  },
+  "consoleErrors": 0,
+  "pageErrors": 0,
+  "screenshots": "Playground toolbar hidden in parent document only",
+  "limitations": [
+    "Fictional portfolio demonstration; not paid client work.",
+    "Browser Playground uses SQLite; conventional MySQL deployment is not tested by this report.",
+    "No working lead-capture form, analytics or payment integration.",
+    "These checks are not a full accessibility audit."
+  ]
+}

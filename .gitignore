@@ -1,0 +1,12 @@
+node_modules/
+package.json
+package-lock.json
+*-reference.json
+*attempt*.json
+*report.json
+browser-verification.json
+populate-demo.mjs
+browser-populate.mjs
+verify-browser.mjs
+editor.png
+screenshots/verification-failure.png
